@@ -1,6 +1,8 @@
 # uni_JPA_sec
 
 GET  - http://localhost:8585/universities   admin admin
+
+
 POST - http://localhost:8585/universities/add eka eka
 {
     "name":"bb",
